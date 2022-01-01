@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SelfDrivingCar",
+			"Path": "C:\\Users\\91888\\Desktop\\SelfDrivingCarInSimulation\\SelfDrivingCar\\Source\\SelfDrivingCar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SelfDrivingCarEditor",
+			"Path": "C:\\Users\\91888\\Desktop\\SelfDrivingCarInSimulation\\SelfDrivingCar\\Source\\SelfDrivingCarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

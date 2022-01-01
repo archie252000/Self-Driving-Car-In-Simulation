@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\91888\\Desktop\\SelfDrivingCarInSimulation\\SelfDrivingCar\\Source\\SelfDrivingCar\\SelfDrivingCar.Build.cs",
+		"C:\\Users\\91888\\Desktop\\SelfDrivingCarInSimulation\\SelfDrivingCar\\Source\\SelfDrivingCar.Target.cs",
+		"C:\\Users\\91888\\Desktop\\SelfDrivingCarInSimulation\\SelfDrivingCar\\Source\\SelfDrivingCarEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

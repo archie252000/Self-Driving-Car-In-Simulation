@@ -1,0 +1,18 @@
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Intermediate\Build\Win64\UE4Editor\Development\SelfDrivingCar\Definitions.SelfDrivingCar.h
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Source\SelfDrivingCar\SelfDrivingCarGameMode.h
+C:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Intermediate\Build\Win64\UE4Editor\Inc\SelfDrivingCar\SelfDrivingCarGameMode.generated.h
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Source\SelfDrivingCar\SelfDrivingCarPawn.h
+C:\Unreal Engine\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
+C:\Unreal Engine\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Intermediate\Build\Win64\UE4Editor\Inc\SelfDrivingCar\SelfDrivingCarPawn.generated.h
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Source\SelfDrivingCar\SelfDrivingCarHud.h
+C:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\91888\Desktop\SelfDrivingCarInSimulation\SelfDrivingCar\Intermediate\Build\Win64\UE4Editor\Inc\SelfDrivingCar\SelfDrivingCarHud.generated.h

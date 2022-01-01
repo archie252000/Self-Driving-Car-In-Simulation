@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SelfDrivingCar.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E30F1E08-088F-4ED9-86D5-5DA37FDA821F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SelfDrivingCar.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SelfDrivingCarEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5F93ABFB-E672-46A5-8D7D-3F099908CEF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SelfDrivingCar">
+      <UniqueIdentifier>{C2B1452A-6166-4F6D-B56F-0D62BB2C93F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SelfDrivingCar\SelfDrivingCar.Build.cs">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SelfDrivingCar\SelfDrivingCar.cpp">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SelfDrivingCar\SelfDrivingCar.h">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SelfDrivingCar\SelfDrivingCarGameMode.cpp">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SelfDrivingCar\SelfDrivingCarGameMode.h">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SelfDrivingCar\SelfDrivingCarHud.cpp">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SelfDrivingCar\SelfDrivingCarHud.h">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SelfDrivingCar\SelfDrivingCarPawn.cpp">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SelfDrivingCar\SelfDrivingCarPawn.h">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SelfDrivingCar\SelfDrivingCarWheelFront.cpp">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SelfDrivingCar\SelfDrivingCarWheelFront.h">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SelfDrivingCar\SelfDrivingCarWheelRear.cpp">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SelfDrivingCar\SelfDrivingCarWheelRear.h">
+      <Filter>Source\SelfDrivingCar</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
